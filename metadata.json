@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T12:44:45.516Z",
+  "generatedAt": "2026-05-23T12:57:45.220Z",
   "resourceSlug": "timeout-matrix-template-dotnet",
   "title": "Timeout matrix template (HTTP / SQL / jobs)",
   "description": "A practical worksheet to set request/job budgets, allocate per-dependency timeouts, and define stop rules and logging fields.",
