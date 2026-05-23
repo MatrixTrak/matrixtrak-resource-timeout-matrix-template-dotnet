@@ -17,6 +17,14 @@ It is designed for quick implementation support, community sharing, and stable v
 
 A practical worksheet to set request/job budgets, allocate per-dependency timeouts, and define stop rules and logging fields.
 
+## Repository Contents
+
+- `resources/` contains shipped files copied from MatrixTrak public ship assets when available
+- `docs/post-mapping.md` maps this resource to related blog posts
+- `docs/resource-files.md` lists included files and source mapping
+- Included shipped files:
+  - resources/timeouts-first-why-infinite-waits-create-recurring-outages-in-dotnet.zip
+
 ## Who This Is For
 
 - Engineers handling production incidents and reliability gaps

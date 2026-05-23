@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-05-23T12:20:17.744Z",
+  "generatedAt": "2026-05-23T12:44:45.516Z",
   "resourceSlug": "timeout-matrix-template-dotnet",
   "title": "Timeout matrix template (HTTP / SQL / jobs)",
   "description": "A practical worksheet to set request/job budgets, allocate per-dependency timeouts, and define stop rules and logging fields.",
   "category": ".NET",
   "pillar": "",
+  "access": "free",
+  "sourcePublicPath": "/ship/timeouts-first-why-infinite-waits-create-recurring-outages-in-dotnet.zip",
+  "includedRepoFiles": [
+    "resources/timeouts-first-why-infinite-waits-create-recurring-outages-in-dotnet.zip"
+  ],
   "canonicalResourceUrl": "https://matrixtrak.com/resources/timeout-matrix-template-dotnet",
   "primaryPostSlugs": [
     "timeouts-first-why-infinite-waits-create-recurring-outages-in-dotnet"
